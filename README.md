@@ -7,7 +7,7 @@ When standard commercial humanoid robots transition to high-impact locomotion mo
 The system relies on a hybrid dual-layer architecture composed of a flexible liner and a rigid shell to execute complex mechanical decoupling. The internal flexible liner (TPU Sock) is formed through a full-surface Boolean subtraction operation based on the official 3D model of the robot's foot. While ensuring a highly conformal fit to the complex curves, this liner provides effective axial cushioning and high-frequency vibration absorption, acting as a critical physical barrier that prevents the rigid structural components from scratching the robot's factory surface finish during high-load operations. Meanwhile, the rigid external shell, serving as the primary load-bearing skeleton, interfaces directly with the robot's rigid sole base to ensure the seamless transmission of lateral pushing forces and vertical gravitational loads without structural deformation.
 <p align="center">
   <img src="Img/Final_Assembly_Render.png" alt="Final Assembly Render" width="60%">
-  <img src="Img/clamping-schematic.png" alt="Clamping Schematic" width="100%">
+  <img src="Img/clamping-schematic.png" alt="Clamping Schematic" width="50%">
 </p>
 
 ## 3D Printing and Material Reinforcement Parameters
