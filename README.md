@@ -5,7 +5,7 @@ This repository open-sources the hardware design of a non-invasive adaptive roll
 When standard commercial humanoid robots transition to high-impact locomotion modes such as roller skating, their factory-default foot structures are highly susceptible to material damage caused by the concentration of axial and lateral composite stresses. Because the factory bolt holes on the original foot base face a high risk of material aging and fatigue-induced thread stripping during long-term experimental operations, this project bypasses destructive modifications or direct component replacement, opting instead for a longitudinally split, clamshell physical wrapping and constraint strategy.
 
 The system relies on a hybrid dual-layer architecture composed of a flexible liner and a rigid shell to execute complex mechanical decoupling. The internal flexible liner (TPU Sock) is formed through a full-surface Boolean subtraction operation based on the official 3D model of the robot's foot. While ensuring a highly conformal fit to the complex curves, this liner provides effective axial cushioning and high-frequency vibration absorption, acting as a critical physical barrier that prevents the rigid structural components from scratching the robot's factory surface finish during high-load operations. Meanwhile, the rigid external shell, serving as the primary load-bearing skeleton, interfaces directly with the robot's rigid sole base to ensure the seamless transmission of lateral pushing forces and vertical gravitational loads without structural deformation.
-![Final Assembly Render](Img/Final Assembly Render.png)
+![Final Assembly Render](Img/Final_Assembly_Render.png)
 ![Clamping Schematic](Img/clamping-schematic.png)
 
 ## 3D Printing and Material Reinforcement Parameters
